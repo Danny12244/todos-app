@@ -1,0 +1,24 @@
+.dis{
+    border: 1px solid black;
+  
+    width: 80%;
+    text-align: center;
+    margin:auto;
+    display:flex;
+    justify-content: space-between;
+    margin-top: 5px;
+    padding:5px;
+}
+
+.strk{
+    text-decoration: line-through;
+}
+
+
+ .dis button {
+    /* margin-left:10px; */
+    color:red;
+    border:none;
+    background-color:lightgreen;
+    border-radius: 5px;
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "text": "Milk ",
+    "done": true
+  },
+  {
+    "id": 2,
+    "text": "Eggs",
+    "done": true
+  },
+  {
+    "id": 3,
+    "text": "Butter",
+    "done": false
+  },
+  {
+    "id": 4,
+    "text": "Bread",
+    "done": false
+  },
+  {
+    "id": 5,
+    "text": "Water",
+    "done": false
+  }
+]

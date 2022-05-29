@@ -1,0 +1,19 @@
+.inl{
+    display:flex;
+    /* border:1px solid red; */
+    width:80%;
+    margin:auto;
+    margin-top:12px;
+}
+.inl button{
+    background-color:lightgreen;
+    border-radius: 4px;
+    border:none;
+    width:30px;
+    margin-left:0px;
+}
+.inl input{
+   
+ padding:5px;
+    /* border:none; */
+}
